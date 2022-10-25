@@ -6,7 +6,7 @@ namespace LV1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Pozdrav iz aplikacije od Ane Marek");
+            Console.WriteLine("Pozdrav iz aplikacije od Ane Marek, broj tokena: 7");
         }
     }
 }
